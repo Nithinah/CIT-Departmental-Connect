@@ -1,7 +1,7 @@
 
 # CIT-Departmental-Connect
 
-Code Not Attached due to Patent Registratio and Privacy Constraints 
+Code Not Attached due to Patent Registration and Privacy Constraints 
 
 "CIT Departmental Connect" is an innovative mobile application tailored for the Coimbatore Institute of Technology (CIT) community, aiming to revolutionize communication and information sharing within the institution. With a centralized platform accessible to students, faculty, and department heads, the app provides comprehensive details on CIT departments, faculty members, and upcoming events. 
 			 
